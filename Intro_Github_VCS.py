@@ -80,13 +80,13 @@ Tell me some interesting facts about yourself.
 ------------------Student 08------------------
 This is the master branch
 Adan Hubby
-
-
-
-
-
-
-
+I'm sitting on a chair
+I wear glasses
+I have two hands
+Its almost eleven
+Im typing on a laptop
+Its at twenty-five percent
+I am in third period
 ------------------Student 09------------------
 
 
