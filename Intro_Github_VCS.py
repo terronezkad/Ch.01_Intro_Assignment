@@ -59,14 +59,14 @@ Tell me some interesting facts about yourself.
 
 ------------------Student 06------------------
 This is the master branch
-Me
-
-
-
-
-
-
-
+Will Fuchs
+I own a unicycle
+I play guitar
+I like pumpkin pie
+I like chick fil a
+I work at home depot
+I like to ride my bike
+I think donda is a good album
 ------------------Student 07------------------
 
 
