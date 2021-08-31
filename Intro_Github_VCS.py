@@ -149,14 +149,14 @@ Tell me some interesting facts about yourself.
 
 ------------------Student 15------------------
 This is the master branch
-Me
-
-
-
-
-
-
-
+Landen Thompson
+I like playing video games like valorant
+I also like survival based games like don't starve together
+I watch lots of tv
+I like sushi
+I hate most sea food other than sushi
+I have 2 dogs
+I like cats
 ------------------Student 16------------------
 
 
