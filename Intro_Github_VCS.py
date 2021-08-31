@@ -69,14 +69,14 @@ Tell me some interesting facts about yourself.
 
 ------------------Student 07------------------
 this is the master branch
-me
-
-
-
-
-
-
-
+matthew hoover
+I have an adopted sister from china
+I play soccer
+I like to play video games but im not very good
+I really like cosmic brownies
+My favorite subject is english
+both my parents are teachers
+idk what else to say
 ------------------Student 08------------------
 
 
