@@ -36,7 +36,7 @@ I want to go into computer programing
 I have two dogs
 My sister has gone to collage
 My sister has a hamster
-I hve one sibling
+I have one sibling
 ------------------Student 04------------------
 
 
