@@ -128,13 +128,14 @@ I love my Nephew
 
 
 ------------------Student 13------------------
-
-
-
-
-
-
-
+this is the master branch
+Jaxson Maass
+I really like playing sports, my favorite sport is wrestling
+my favorite food is chicken alfredo
+I enjoy fishing a lot
+My favorite sports team are the Iowa Hawkeyes
+My favorite color is white or black
+I also enjoy playing guitar
 
 
 ------------------Student 14------------------
