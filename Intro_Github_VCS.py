@@ -108,15 +108,15 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Student 11------------------
-
-
-
-
-
-
-
-
-
+This is the master branch
+Joseph Jarman
+I love to program
+I love GitHub
+I love/hate my brother
+I love Linux
+I love Python
+I love C/C++
+I love my Nephew
 ------------------Student 12------------------
 
 
