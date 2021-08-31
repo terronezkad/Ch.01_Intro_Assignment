@@ -8,8 +8,9 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Student 01------------------
-Kai I don't know how to do what I am doing and this will most likely not work
-
+Kai - test
+I don't even know what I am doing right now and this is a very confusing
+hoobie doobie doo
 
 
 
