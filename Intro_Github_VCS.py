@@ -30,13 +30,13 @@ Tell me some interesting facts about yourself.
 ------------------Student 03------------------
 This is the master branch
 Zachary Blum
-
-
-
-
-
-
-
+I like bowling
+I love playing video games
+I want to go into computer programing
+I have two dogs
+My sister has gone to collage
+My sister has a hamster
+I hve one sibling
 ------------------Student 04------------------
 
 
