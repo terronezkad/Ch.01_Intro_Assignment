@@ -90,13 +90,13 @@ Tell me some interesting facts about yourself.
 ------------------Student 09------------------
 THIS IS THE MASTER BRANCH Muhahahhahha
 Bryce Huey
-
-
-
-
-
-
-
+I like computers,
+Did you know that old computers tend to not
+be slow in the ways you think?
+usually what makes a computer slow is the
+memory speed and not the actual effective speed.
+and it only costs 20$ to get better memory
+so maybe think next time think before you buy.
 ------------------Student 10------------------
 
 
