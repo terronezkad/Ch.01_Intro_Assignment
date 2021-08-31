@@ -40,9 +40,9 @@ Tell me some interesting facts about yourself.
 ------------------Student 04------------------
 this is the master branch
 Gavin Clarkson
-
-
-
+i do not like cheez its
+i was born in texas
+My dad originally was going to name me les paul, after the guitar
 
 
 
