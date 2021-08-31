@@ -50,13 +50,13 @@ Tell me some interesting facts about yourself.
 ------------------Student 05------------------
 This is the master branch
 Matthew Flyr
-
-
-
-
-
-
-
+I love NASCAR
+I love to write
+I have a CD collection
+I love music
+I like to play video games
+I like to ride my bike
+I like to work
 ------------------Student 06------------------
 
 
