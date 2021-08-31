@@ -119,14 +119,14 @@ Tell me some interesting facts about yourself.
 
 ------------------Student 12------------------
 This is the master branch
-Me
-
-
-
-
-
-
-
+Keaton Kane
+Football
+Small talk
+I like the Tampa Bay Buccaneers
+Everyone hates the Dallas Cowboys
+Alarm Clock
+Weather Rain
+Hermon
 ------------------Student 13------------------
 
 
