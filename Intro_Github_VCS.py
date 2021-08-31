@@ -9,7 +9,8 @@ Tell me some interesting facts about yourself.
 
 ------------------Student 01------------------
 Kai - test
-
+I don't even know what I am doing right now and this is a very confusing
+hoobie doobie doo
 
 
 
