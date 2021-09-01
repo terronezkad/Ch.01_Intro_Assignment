@@ -98,15 +98,15 @@ memory speed and not the actual effective speed.
 and it only costs 20$ to get better memory
 so maybe think next time think before you buy.
 ------------------Student 10------------------
-
-
-
-
-
-
-
-
-
+This is the master branch
+Will Jacobson
+European Futbol is the only true Football
+I played Hockey for 8 years of my life
+My Dad is a physics teacher
+I enjoy math
+I have a YouTube channel
+KSI will kill Jake Paul
+I like to play Halo
 ------------------Student 11------------------
 This is the master branch
 Joseph Jarman
