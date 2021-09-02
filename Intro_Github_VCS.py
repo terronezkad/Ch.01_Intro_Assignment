@@ -119,15 +119,15 @@ I love Python
 I love C/C++
 I love my Nephew
 ------------------Student 12------------------
-
-
-
-
-
-
-
-
-
+This is the master branch
+Keaton Kane
+Football
+Small talk
+I like the Tampa Bay Buccaneers
+Everyone hates the Dallas Cowboys
+Alarm Clock
+Weather Rain
+Hermon
 ------------------Student 13------------------
 this is the master branch
 Jaxson Maass
