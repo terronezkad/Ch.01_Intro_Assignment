@@ -140,9 +140,9 @@ I also enjoy playing guitar
 
 
 ------------------Student 14------------------
-
-
-
+My name is Aidan
+I am a sophomore at Urbandale High School
+One of the classes I am taking is Computer Science Principles
 
 
 
