@@ -169,12 +169,12 @@ I'm usually tired
 
 
 ------------------Student 17------------------
-
-
-
-
-
-
+This is the master branch
+Gabe Van Haecke
+Some interesting stuff about yourself
+I am in band
+I like video games
+I enjoy coding
 
 
 
