@@ -38,11 +38,11 @@ My sister has gone to collage
 My sister has a hamster
 I have one sibling
 ------------------Student 04------------------
-
-
-
-
-
+this is the master branch
+Gavin Clarkson
+i do not like cheez its
+i was born in texas
+My dad originally was going to name me les paul, after the guitar
 
 
 
