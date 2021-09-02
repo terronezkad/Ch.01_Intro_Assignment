@@ -79,15 +79,15 @@ My favorite subject is english
 both my parents are teachers
 idk what else to say
 ------------------Student 08------------------
-
-
-
-
-
-
-
-
-
+This is the master branch
+Adan Hubby
+I'm sitting on a chair
+I wear glasses
+I have two hands
+Its almost eleven
+Im typing on a laptop
+Its at twenty-five percent
+I am in third period
 ------------------Student 09------------------
 THIS IS THE MASTER BRANCH Muhahahhahha
 Bryce Huey
