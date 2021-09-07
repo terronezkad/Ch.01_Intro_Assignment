@@ -19,15 +19,15 @@ hoobie doobie doo
 
 
 ------------------Student 02------------------
-
-
-
-
-
-
-
-
-
+This is another master
+Ava Binstock
+I like to run
+I love big dogs
+I want a big dog
+I have 3 cats
+My sister is going to college
+my sister is in the military
+I have two siblings
 ------------------Student 03------------------
 This is the master branch
 Zachary Blum
