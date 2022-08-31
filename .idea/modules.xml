@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../code/PythonJedi/Ch.01_Intro_Assignment/.idea/Ch.01_Intro_Assignment.iml" filepath="$PROJECT_DIR$/../../code/PythonJedi/Ch.01_Intro_Assignment/.idea/Ch.01_Intro_Assignment.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Ch01_Intro_Assignment.iml" filepath="$PROJECT_DIR$/.idea/Ch01_Intro_Assignment.iml" />
-
     </modules>
   </component>
 </project>
