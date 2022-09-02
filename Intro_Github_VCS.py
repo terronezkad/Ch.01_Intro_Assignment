@@ -185,7 +185,7 @@ favorite animal: dog
 favorite sport: baseball
 favorite food: steak
 favorite subject: math
-favorite app: snapchat
+favorite app: Youtube
 favorite class: Adv. Accounting
 ------------------Student 19------------------
 
