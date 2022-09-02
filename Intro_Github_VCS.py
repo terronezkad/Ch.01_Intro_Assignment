@@ -178,7 +178,7 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Kadin Terronez------------------
-this is the testing branch
+this is the master branch
 favorite color: blue
 06/06/2006
 favorite animal: dog
