@@ -177,9 +177,11 @@ Tell me some interesting facts about yourself.
 
 
 
-------------------Student 18------------------
-
-
+------------------Kadin Terronez------------------
+this is the testing branch
+favorite color: blue
+this is the master branch
+06/06/06
 
 
 
