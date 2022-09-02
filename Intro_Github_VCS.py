@@ -180,15 +180,13 @@ Tell me some interesting facts about yourself.
 ------------------Kadin Terronez------------------
 this is the testing branch
 favorite color: blue
-this is the master branch
-06/06/06
-
-
-
-
-
-
-
+06/06/2006
+favorite animal: dog
+favorite sport: baseball
+favorite food: steak
+favorite subject: math
+favorite app: snapchat
+favorite class: Adv. Accounting
 ------------------Student 19------------------
 
 
